@@ -1,0 +1,1 @@
+"""Abstract safety response layer."""
