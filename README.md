@@ -977,4 +977,3 @@ Research interests:
 - Marine and Aerial Robotics
 ```
 
-Bunda özellikle **11. projeyi 9 ve 10'un tekrarı olmaktan çıkardım**: 9 daha çok **GNC/autonomous pursuit**, 10 **perception/tracking/fusion**, 11 ise **systems engineering + subsystem integration + decision-support architecture** olarak konumlanıyor. 
